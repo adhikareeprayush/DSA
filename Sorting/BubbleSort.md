@@ -61,9 +61,7 @@ In the average case, the array is neither sorted nor reverse sorted, and the alg
 
 - The average time complexity is still dominated by quadratic term:
 
-  $$
-  Time \ Complexity = O(n^2)
-  $$
+  **Time Complexity** = $O(n^2)$
 
 
 ### Summary:
