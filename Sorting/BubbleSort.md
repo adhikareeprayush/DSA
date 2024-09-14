@@ -67,7 +67,7 @@ In the average case, the array is neither sorted nor reverse sorted, and the alg
 ### Summary:
 
 - **Worst Case Time Complexity**: $O(n^2)$
-- **Best Case Time Complexity**: $O(n)$ (with optimization, otherwise $O(n^2)$)
+- **Best Case Time Complexity**: $O(n)$ (with optimization, otherwise $O(n^2)$ )
 - **Average Case Time Complexity**: $O(n^2)$
 
 The space complexity of Bubble Sort is $O(1)$, since it only requires a constant amount of extra space.
