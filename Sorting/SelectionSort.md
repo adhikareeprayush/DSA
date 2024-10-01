@@ -44,7 +44,7 @@ void selectionSort(int arr[], int n) {
 
 1. Simple implementation
 2. Performs well on small arrays
-3. Minimizes the number of swaps ($ O(n) $ swaps)
+3. Minimizes the number of swaps ( $ O(n) $ swaps)
 
 ## Disadvantages
 
